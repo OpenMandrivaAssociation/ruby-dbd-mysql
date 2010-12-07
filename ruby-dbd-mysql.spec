@@ -1,7 +1,7 @@
 %define base_name	dbd-mysql
 %define name	ruby-%{base_name}
 %define version	0.4.4
-%define release	%mkrel 1
+%define release	%mkrel 2
 
 # Be backportable
 %{!?ruby_vendorlibdir:%define ruby_vendorlibdir %ruby_sitelibdir}
