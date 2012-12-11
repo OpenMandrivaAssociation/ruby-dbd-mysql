@@ -42,3 +42,21 @@ rm -rf %{buildroot}
 %doc README ChangeLog LICENSE
 %{ruby_vendorlibdir}/dbd
 
+
+
+%changelog
+* Tue Dec 07 2010 Oden Eriksson <oeriksson@mandriva.com> 0.4.4-2mdv2011.0
++ Revision: 614724
+- the mass rebuild of 2010.1 packages
+
+* Sun Apr 04 2010 Guillaume Rousse <guillomovitch@mandriva.org> 0.4.4-1mdv2010.1
++ Revision: 531333
+- new version
+
+* Sat Jul 18 2009 Guillaume Rousse <guillomovitch@mandriva.org> 0.4.3-1mdv2010.0
++ Revision: 397042
+- import ruby-dbd-mysql
+
+
+* Sat Jul 18 2009 Guillaume Rousse <guillomovitch@mandriva.org> 0.4.3-1mdv2010.0
+- first mdv release 
