@@ -12,7 +12,7 @@ Release:	%{release}
 Summary:	MySQL driver for ruby-DBI
 Group:		Development/Ruby
 License:	BSD-like
-URL:		http://ruby-dbi.rubyforge.org/
+URL:		https://ruby-dbi.rubyforge.org/
 Source:		http://rubyforge.org/frs/download.php/69558/%{base_name}-%{version}.tar.gz
 BuildRequires:	ruby
 BuildArch:      noarch
